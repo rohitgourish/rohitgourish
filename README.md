@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit Kumar Pydisetti</h1>
 
 
 # 💻 Tech Stack:
