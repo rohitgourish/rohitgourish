@@ -23,6 +23,11 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+[![Rohit Kumar Pydisetti's stats-Dark](https://github-readme-stats.vercel.app/api?username=rohitgourish&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rohitgourish/github-readme-stats#gh-dark-mode-only)
+[![Rohit Kumar Pydisetti's status-Light](https://github-readme-stats.vercel.app/api?username=rohitgourish&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/rohitgourish/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgourish)](https://github.com/rohitgourish/github-readme-stats)
+
 <!--
 **rohitgourish/rohitgourish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
