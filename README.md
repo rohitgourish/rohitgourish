@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rohitgourish&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgourish&theme=gotham)](https://github.com/rohitgourish/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgourish&theme=gotham)](https://github.com/rohitgourish/github-readme-stats)
 
 
 
